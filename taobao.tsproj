@@ -1,0 +1,10 @@
+[res]
+zuan.png
+zhi.png
+xin.png
+tie.png
+[lib]
+tsimg.so
+ts.so
+[file]
+main.lua
